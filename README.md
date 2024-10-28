@@ -129,6 +129,7 @@ See the docs for [the possible roles](https://docs.mongodb.com/manual/reference/
 
 Users and databases are always configured via localhost, via user admin and database admin.
 When a cluster configured, configuring database and users is executed from the primary host.
+This needs to be tested.
 
 Set with:
 ```yaml
